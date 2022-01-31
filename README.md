@@ -4,30 +4,24 @@ I'm Bobrobot1, and I'm ready to take on your next big project.
 I currently am the sole developer of the mobile app for CompensationVR, written with Dart.
 I also created the Suicide Prevention Bot for use on Discord.
 
-    🔭 I’m currently working on Compensation VR
-    🌱 I’m currently learning more 3D modelling skills.
-    👯 I’m looking to collaborate on Compensation VR.
-    🤔 I’m looking for help with modelling hair.
-    💬 Ask me about Compensation VR. (be prepared to be talked at for hours)
+    🔭 I’m currently working on CompensationVR
+    🌱 I’m currently learning Artificial Intelligence and Machine Learning
+    👯 I’m looking to collaborate on Suicide Prevention Bot
+    🤔 I’m looking for help with Kubernetes
+    💬 Ask me about Suicide Prevention Bot, CompensationVR, or Dart/Flutter.
     📫 How to reach me: Rose932#1454 on Discord.
-    😄 Pronouns: She / Her
-    ⚡ Fun fact: i have no idea what i'm doing almost all the time
+    😄 Pronouns: they/them
+    ⚡ Fun fact: Fun fact: Windows sucks, and you should try Linux/MacOS
+
 
 Education
 
-    I've graduated from the Introduction to Node.js course on EDX.
+    I'm a current student in High School, where I take:
+        AP<sup>(equiv)</sup> Computer Scicene
+        Graphic Design and Animation
     I've previously taken courses in basic C# as well as visual effects.
     I also have over 2 years of experience in Unity3D, including over a year of experience in C#.
 
-
-➜ I’m currently working on CompensationVR
-- 🌱 I’m currently learning Artificial Intelligence and Machine Learning
-- 👯 I’m looking to collaborate on Suicide Prevention Bot
-- 🤔 I’m looking for help with Kubernetes
-- 💬 Ask me about Suicide Prevention Bot, CompensationVR, or Dart/Flutter.
-- 😄 Pronouns: they/them
-- ⚡ Fun fact: Windows sucks, and you should try Linux/MacOS
--->
 
 ## Connect with me:
 
