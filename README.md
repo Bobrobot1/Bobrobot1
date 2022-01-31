@@ -49,23 +49,25 @@ I also created the Suicide Prevention Bot for use on Discord.
     
 ### Python
 
-    HTML (HyperText Markup Language) is the standard markup language used by every single one of the billions of websites acorss the Internet. It is assisted by CSS (Cascading Style Sheets) to form the structure of every page you visit.
+    Python is a high-level language that is interpereted at runtime. It has a wide variety of uses and features, and is designed to be as easy as possible to read by humans. It uses indentation to structure the code, instead of a semicolon like other langauges. It is designed to make coding as clear and easy as possible, for even the largest and most complex projects.
     
  ### Dart
 
-    HTML (HyperText Markup Language) is the standard markup language used by every single one of the billions of websites acorss the Internet. It is assisted by CSS (Cascading Style Sheets) to form the structure of every page you visit.
+    Dart is a programming language designed for client development, such as for the web and mobile apps. It is developed by Google and can also be used to build server and desktop applications. Dart is an object-oriented, class-based, garbage-collected language with C-style syntax. Dart can compile to either native code or JavaScript. It supports interfaces, mixins, abstract classes, reified generics, and type inference.
+    
+    Dart is a programming languages created by Google, designed from the ground up for front-end client development, though can also be used server-side. Dart is an object-oriented, , null-safe, strictly-typed, class-based, garbage-collected programming language, using syntax that is familiar to other languages. Dart compiles to both native code and JavaScript.
     
 ### Flutter
 
-    HTML (HyperText Markup Language) is the standard markup language used by every single one of the billions of websites acorss the Internet. It is assisted by CSS (Cascading Style Sheets) to form the structure of every page you visit.
+    Flutter is an SDK created by Google for mobile and web applications. It is Open Source and uses Dart as its language. It compiles cross-platform for Android, iOS, Linux, MacOS, Windows, Fuchsia, PWA, and Web with one codebase.
 
 ### AppleScript
 
-    HTML (HyperText Markup Language) is the standard markup language used by every single one of the billions of websites acorss the Internet. It is assisted by CSS (Cascading Style Sheets) to form the structure of every page you visit.
-
+    AppleScript is a scripting language by Apple that allows users to automate various functions and actions in MacOS. It was designed to be easy for new users to learn, by making actions written in plain english. It is included on all macOS systems. 
+    
 ### Bash
-
-    HTML (HyperText Markup Language) is the standard markup language used by every single one of the billions of websites acorss the Internet. It is assisted by CSS (Cascading Style Sheets) to form the structure of every page you visit.
+    
+    Bash (or alternatively zsh) is the default shell on the majority of Linux distributions, as well as MacOS. It is Open Source and is a part of the GNU project. It has been around for well over 30 years at this point, and still holds strong to this day. 
 
 
 
