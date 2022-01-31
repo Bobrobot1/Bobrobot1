@@ -16,7 +16,7 @@ I also created the Suicide Prevention Bot for use on Discord.
     ⚡ Fun fact: Fun fact: Windows sucks, and you should try Linux/MacOS!
 
 
-## Education:
+## Education 📚
     9 years of programming experience
     5 years of deep Unix system experience
     2 years of Discord Bot development experience
@@ -29,7 +29,7 @@ I also created the Suicide Prevention Bot for use on Discord.
     <li>FIRST Tech Challence Robotics</li>
 </ul> 
 
-## Languages:
+## Languages ❇️
 
 
 
@@ -81,7 +81,7 @@ Bash (or alternatively zsh) is the default shell on the majority of Linux distri
     
     
     
-## Connect with me:
+## Connect with me 🌎
 
 <a href="https://discord.com/users/363450765307805696" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
