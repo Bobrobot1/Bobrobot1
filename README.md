@@ -30,8 +30,7 @@ I also created the Suicide Prevention Bot for use on Discord.
     <li>FIRST Tech Challence Robotics</li>
 </ul> 
 
-## Languages ❇️
-
+## Languages 🚀
 
 
 ### HTML/CSS
