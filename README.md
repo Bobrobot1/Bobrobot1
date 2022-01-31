@@ -14,13 +14,18 @@ I also created the Suicide Prevention Bot for use on Discord.
     ⚡ Fun fact: Fun fact: Windows sucks, and you should try Linux/MacOS!
 
 
-Education
-
-    I'm a current student in High School, where I take:
-         - AP<sup>(equiv)</sup> Computer Scicene
-         - Graphic Design and Animation
+## Education
     9 years of programming experience
-    
+    5 years of deep Unix system experience
+    2 years of Discord Bot development experience
+<p></p>
+
+    I'm a current student in High School, where I am enrolled in:
+<ul>
+    <li>AP<sup>(equiv)</sup> Computer Scicene</li>
+    <li>Graphic Design and Animation III</li>
+    <li>FIRST Tech Challence Robotics</li>
+</ul> 
 
 
 ## Connect with me:
