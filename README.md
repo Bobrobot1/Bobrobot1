@@ -99,3 +99,5 @@ Bash (or alternatively zsh) is the default shell on the majority of Linux distri
 <a href="https://www.youtube.com/channel/UCnP8knypP7DtngbNAsLzDCg" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
+
+![](https://hit.yhype.me/github/profile?user_id=24487638)
