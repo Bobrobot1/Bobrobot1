@@ -31,43 +31,47 @@ I also created the Suicide Prevention Bot for use on Discord.
 
 ## Languages:
 
+
+
 ### HTML/CSS
 
-    HTML (HyperText Markup Language) is the standard markup language used by every single one of the billions of websites acorss the Internet. It is assisted by CSS (Cascading Style Sheets) to form the structure of every page you visit.
+HTML (HyperText Markup Language) is the standard markup language used by every single one of the billions of websites acorss the Internet. It is assisted by CSS (Cascading Style Sheets) to form the structure of every page you visit.
     
 ### JavaScript
 
-    JavaScript (JS) is a programming language used acorss 97% of websites on the web. It it run client-side (usually), and allows the webpage to be interactive and dynamic in content. It's the backbone of the modern web, and it lets developers make amazingly useful websites. Developers will often use 3rd party JavaScript libraries to push their own code further, as well.
+JavaScript (JS) is a programming language used acorss 97% of websites on the web. It it run client-side (usually), and allows the webpage to be interactive and dynamic in content. It's the backbone of the modern web, and it lets developers make amazingly useful websites. Developers will often use 3rd party JavaScript libraries to push their own code further, as well.
     
 ### NodeJS
 
-    NodeJS is a way to run Javascript, which is normally web-only, on a server without a browser. This empowers developers to have the ease of use that comes with JavaScript, and apply it to the backend of services you use every day.
+NodeJS is a way to run Javascript, which is normally web-only, on a server without a browser. This empowers developers to have the ease of use that comes with JavaScript, and apply it to the backend of services you use every day.
     
 ### Discord.js
 
-    Discord.js (DiscordJS) is a NodeJS library, used to create bots on Discord. It allows developers to make bots that interact with users, join voice chats, manage channels, moderate users, and keep a server happy and healthy.
+Discord.js (DiscordJS) is a NodeJS library, used to create bots on Discord. It allows developers to make bots that interact with users, join voice chats, manage channels, moderate users, and keep a server happy and healthy.
     
 ### Python
 
-    Python is a high-level language that is interpereted at runtime. It has a wide variety of uses and features, and is designed to be as easy as possible to read by humans. It uses indentation to structure the code, instead of a semicolon like other langauges. It is designed to make coding as clear and easy as possible, for even the largest and most complex projects.
+Python is a high-level language that is interpereted at runtime. It has a wide variety of uses and features, and is designed to be as easy as possible to read by humans. It uses indentation to structure the code, instead of a semicolon like other langauges. It is designed to make coding as clear and easy as possible, for even the largest and most complex projects.
+
+### Pycord
+
+Pycord (Successor to Discord.py) is a pythob library, used to create bots on Discord. It allows developers to make bots that interact with users, join voice chats, manage channels, moderate users, and keep a server happy and healthy.
     
  ### Dart
-
-    Dart is a programming language designed for client development, such as for the web and mobile apps. It is developed by Google and can also be used to build server and desktop applications. Dart is an object-oriented, class-based, garbage-collected language with C-style syntax. Dart can compile to either native code or JavaScript. It supports interfaces, mixins, abstract classes, reified generics, and type inference.
-    
-    Dart is a programming languages created by Google, designed from the ground up for front-end client development, though can also be used server-side. Dart is an object-oriented, , null-safe, strictly-typed, class-based, garbage-collected programming language, using syntax that is familiar to other languages. Dart compiles to both native code and JavaScript.
+ 
+Dart is a programming languages created by Google, designed from the ground up for front-end client development, though can also be used server-side. Dart is an object-oriented, , null-safe, strictly-typed, class-based, garbage-collected programming language, using syntax that is familiar to other languages. Dart compiles to both native code and JavaScript.
     
 ### Flutter
 
-    Flutter is an SDK created by Google for mobile and web applications. It is Open Source and uses Dart as its language. It compiles cross-platform for Android, iOS, Linux, MacOS, Windows, Fuchsia, PWA, and Web with one codebase.
+Flutter is an SDK created by Google for mobile and web applications. It is Open Source and uses Dart as its language. It compiles cross-platform for Android, iOS, Linux, MacOS, Windows, Fuchsia, PWA, and Web with one codebase.
 
 ### AppleScript
 
-    AppleScript is a scripting language by Apple that allows users to automate various functions and actions in MacOS. It was designed to be easy for new users to learn, by making actions written in plain english. It is included on all macOS systems. 
+AppleScript is a scripting language by Apple that allows users to automate various functions and actions in MacOS. It was designed to be easy for new users to learn, by making actions written in plain english. It is included on all macOS systems. 
     
 ### Bash
     
-    Bash (or alternatively zsh) is the default shell on the majority of Linux distributions, as well as MacOS. It is Open Source and is a part of the GNU project. It has been around for well over 30 years at this point, and still holds strong to this day. 
+Bash (or alternatively zsh) is the default shell on the majority of Linux distributions, as well as MacOS. It is Open Source and is a part of the GNU project. It has been around for well over 30 years at this point, and still holds strong to this day. 
 
 
 
