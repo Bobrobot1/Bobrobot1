@@ -2,7 +2,8 @@
 
 # Hello 👋
 
-I'm Bobrobot1, and I'm ready to take on your next big project.
+<b>I'm Bobrobot1, and I'm ready to take on your next big project.</b>
+
 I currently am the sole developer of the mobile app for CompensationVR, written with Dart.
 I also created the Suicide Prevention Bot for use on Discord.
 
