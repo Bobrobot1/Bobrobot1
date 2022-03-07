@@ -12,7 +12,7 @@ I also created the Suicide Prevention Bot for use on Discord.
     👯 I’m looking to collaborate on Suicide Prevention Bot.
     🤔 I’m looking for help with Kubernetes.
     💬 Ask me about Suicide Prevention Bot, CompensationVR, or Dart/Flutter.
-    📫 How to reach me: Rose932#1454 on Discord.
+    📫 How to reach me: Bobrobot1#1408 on Discord.
     😄 Pronouns: they/them.
     ⚡ Fun fact: Fun fact: Windows sucks, and you should try Linux/MacOS!
 
