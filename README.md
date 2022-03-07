@@ -39,11 +39,11 @@ HTML (HyperText Markup Language) is the standard markup language used by every s
     
 ### JavaScript
 
-JavaScript (JS) is a programming language used acorss 97% of websites on the web. It it run client-side (usually), and allows the webpage to be interactive and dynamic in content. It's the backbone of the modern web, and it lets developers make amazingly useful websites. Developers will often use 3rd party JavaScript libraries to push their own code further, as well.
+JavaScript (JS) is a programming language used across 97% of websites on the web. It it run client-side (usually), and allows the webpage to be interactive and dynamic in content. It's the backbone of the modern web, and it lets developers make amazingly useful websites. Developers will often use 3rd party JavaScript libraries to push their own code further, as well.
     
 ### NodeJS
 
-NodeJS is a way to run Javascript, which is normally web-only, on a server without a browser. This empowers developers to have the ease of use that comes with JavaScript, and apply it to the backend of services you use every day.
+NodeJS is a way to run Javascript, which is normally web-only, on a server without a web browser. This empowers developers to have the ease of use that comes with JavaScript, and apply it to the backend of services you use every day.
     
 ### Discord.js
 
@@ -55,7 +55,7 @@ Python is a high-level language that is interpereted at runtime. It has a wide v
 
 ### Pycord
 
-Pycord (Successor to Discord.py) is a pythob library, used to create bots on Discord. It allows developers to make bots that interact with users, join voice chats, manage channels, moderate users, and keep a server happy and healthy.
+Pycord (Successor to Discord.py) is a python library, used to create bots on Discord. It allows developers to make bots that interact with users, join voice chats, manage channels, moderate users, and keep a server happy and healthy.
     
  ### Dart
  
