@@ -23,7 +23,7 @@ I also created the Suicide Prevention Bot for use on Discord.
     2 years of Discord Bot development experience
 <p></p>
 
-    I'm a current student in High School, where I am enrolled in:
+    I'm a current student in high school, where I am enrolled in:
 <ul>
     <li>AP<sup>(equiv)</sup> Computer Scicene</li>
     <li>Graphic Design and Animation III</li>
