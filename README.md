@@ -58,7 +58,7 @@ Pycord (Successor to Discord.py) is a python library, used to create bots on Dis
     
  ### Dart
  
-Dart is a programming languages created by Google, designed from the ground up for front-end client development, though can also be used server-side. Dart is an object-oriented, , null-safe, strictly-typed, class-based, garbage-collected programming language, using syntax that is familiar to other languages. Dart compiles to both native code and JavaScript.
+Dart is a programming languages created by Google, designed from the ground up for front-end client development, though can also be used server-side. Dart is an object-oriented, null-safe, strictly-typed, class-based, garbage-collected programming language, using syntax that is familiar to other languages. Dart compiles to both native code and JavaScript.
     
 ### Flutter
 
