@@ -15,6 +15,7 @@ I also created the Suicide Prevention Bot for use on Discord.
     📫 How to reach me: Bobrobot1#1408 on Discord.
     ⚡ Fun fact: Fun fact: Windows sucks, and you should try Linux/MacOS!
 
+[![Bobrobot1's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobrobot1)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Education 📚
     9 years of programming experience
